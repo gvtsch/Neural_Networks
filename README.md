@@ -1,3 +1,8 @@
-# Neural_Networks
+# Neural Networks
 
-In this repository, I try to collect everything related to Neural Networks, unless it is a separate project.
+This folder contains code and examples for building and training neural networks in Python. Neural networks are the backbone of modern deep learning.
+
+## Contents
+
+- `MNIST_example.ipynb`: Jupyter notebook for handwritten digit recognition with neural networks.
+- `README.md`: This file.
